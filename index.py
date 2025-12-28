@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 
-=======
->>>>>>> cc4e312cd7207d934a1ccb6fb3bbfed967226cc7
 import pygame
 import math
 import random
@@ -231,7 +228,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-<<<<<<< HEAD
-=======
-
->>>>>>> cc4e312cd7207d934a1ccb6fb3bbfed967226cc7
